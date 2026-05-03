@@ -11,7 +11,7 @@ Analysis of AI developer cognitive load and productivity factors using OLS regre
 This project investigates the relationship between developer work habits and cognitive load through rigorous statistical modeling. The study applies regression analysis with emphasis on handling multicollinearity and feature selection through regularization techniques.
 
 **Course:** Statistical Models & Statistical Learning  
-**Program:** M.Sc. Computer Engineering (AI & Machine Learning track)  
+**Program:** M.Sc. Computer Engineering (AI & Machine Learning)  
 **University:** Università della Calabria
 
 ---
